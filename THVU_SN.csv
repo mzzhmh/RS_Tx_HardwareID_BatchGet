@@ -1,0 +1,212 @@
+nohup: ignoring input,,,,
+Site,TX Name,IP Address,Serial Number,SW/FW/Bios
+2008 Black Mountain,TD1-TX Controller-R&amp;S THV9,http://10.15.200.51,110475,22.0.0
+2008 Black Mountain,TD1-TX Exciter A-R&amp;S THV9,http://10.15.200.52,105896,22.0.0
+2008 Black Mountain,TD1-TX Exciter B-R&amp;S THV9,http://10.15.200.53,110474,22.0.0
+2008 Black Mountain,TD6-TX Controlller-R&amp;S THV9,http://10.15.200.61,104648,22.0.0
+2008 Black Mountain,TD6-TX Exciter A-R&amp;S THV9,http://10.15.200.64,104646,22.0.0
+2008 Black Mountain,TD6-TX Exciter B-R&amp;S THV9,http://10.15.200.63,timed out while connecting to remote host,timed out while connecting to remote host
+2008 Black Mountain,TD10-TX Controller- R&amp;S THV9,http://10.15.200.150,115419,23.6.0
+2008 Black Mountain,TD10-Exciter A-R&amp;S THV9,http://10.15.200.151,115417,23.6.0
+2008 Black Mountain,TD10-Exciter B-R&amp;S THV9,http://10.15.200.152,115418,23.6.0
+2040 Gore Hill,TD1-Exciter A-R&amp;S THV9,http://10.12.16.52,110484,20.0.2
+2040 Gore Hill,TD1-Exciter B-R&amp;S THV9,http://10.12.16.53,110485,20.0.2
+2040 Gore Hill,TD1-TX Controller-R&amp;S THV9,http://10.12.16.51,110486,20.0.2
+2040 Gore Hill,TD6-TX-Rohde &amp; Schwarz THV9,http://10.12.16.62,103507,20.0.2
+2052 Knights Hill,TD1-TX-R&amp;S THU9,http://10.12.20.58,105515,20.0.2
+2052 Knights Hill,TD6-TX-R&amp;S THU9,http://10.12.20.68,106281,20.0.2
+2064 Middle Brother,TD1-R&amp;S-THV9-TX-Controller,http://10.12.18.57,110489,19.0.0
+2064 Middle Brother,TD1-R&amp;S-THV9-TX-Exciter_A,http://10.12.18.58,NOSUCHOBJECT,NOSUCHOBJECT
+2064 Middle Brother,TD1-R&amp;S-THV9-TX-Exciter_B,http://10.12.18.59,NOSUCHOBJECT,NOSUCHOBJECT
+2064 Middle Brother,TD6-R&amp;S-THV9-TX-Controller,http://10.12.18.67,110496,19.0.0
+2064 Middle Brother,TD6-R&amp;S-THV9-TX-Exciter_A,http://10.12.18.68,NOSUCHOBJECT,NOSUCHOBJECT
+2064 Middle Brother,TD6-R&amp;S-THV9-TX-Exciter_B,http://10.12.18.69,NOSUCHOBJECT,NOSUCHOBJECT
+2067 Mt Canobalas,TD1-TX-R&amp;S THU9,http://10.12.17.67,110826,21.0.0
+2067 Mt Canobalas,TD1-Exciter A-R&amp;S THU9,http://10.12.17.68,101531,21.0.0
+2067 Mt Canobalas,TD1-Exciter B-R&amp;S THU9,http://10.12.17.69,101532,21.0.0
+2067 Mt Canobalas,TD6-TX-R&amp;S THU9,http://10.12.17.57,110827,20.0.2
+2067 Mt Canobalas,TD6-Exciter A-R&amp;S THU9,http://10.12.17.58,101533,21.0.0
+2067 Mt Canobalas,TD6-Exciter B-R&amp;S THU9,http://10.12.17.59,101534,21.0.0
+2068 Mt Cenn Cruaich,TD1-TX Controller-R&amp;S THV9,http://10.12.22.54,110509,19.0.0
+2068 Mt Cenn Cruaich,TD1-TX Exciter A-R&amp;S THV9,http://10.12.22.58,NOSUCHOBJECT,NOSUCHOBJECT
+2068 Mt Cenn Cruaich,TD1-TX Exciter B-R&amp;S THV9,http://10.12.22.59,NOSUCHOBJECT,NOSUCHOBJECT
+2068 Mt Cenn Cruaich,TD6-TX-THV9,http://10.12.22.70,104722,16.0.0
+2069 Mt Dowe,TD6-R&amp;S-THU9-TX-Exciter_A,http://10.12.23.31,101529,21.0.0
+2069 Mt Dowe,TD6-R&amp;S-THU9-TX-Exciter_B,http://10.12.23.32,timed out while connecting to remote host,timed out while connecting to remote host
+2069 Mt Dowe,TD6-TX Controller-R&amp;S THU9,http://10.12.23.30,110767,20.0.2
+2075 Mt Moombil,TD1-R&amp;S-THU9-TX-Exciter_A,http://10.12.19.58,101537,21.0.0
+2075 Mt Moombil,TD1-R&amp;S-THU9-TX-Exciter_B,http://10.12.19.59,101540,21.0.0
+2075 Mt Moombil,TD1-TX-R&amp;S THU9,http://10.12.19.57,110942,20.0.2
+2075 Mt Moombil,TD6-R&amp;S-THU9-TX-Exciter_A,http://10.12.19.63,101539,21.0.0
+2075 Mt Moombil,TD6-R&amp;S-THU9-TX-Exciter_B,http://10.12.19.64,101538,21.0.0
+2075 Mt Moombil,TD6-TX-R&amp;S THU9,http://10.12.19.62,110943,20.0.2
+2076 Mt Nardi,TD1-TX Controller-R&amp;S THU9 ,http://10.12.25.58,105887,20.0.2
+2076 Mt Nardi,TD1-TX Controller-R&amp;S THU9 ,http://10.12.25.58,105887,20.0.2
+2076 Mt Nardi,TD6-TX Controller-R&amp;S THU9,http://10.12.25.68,105897,20.0.2
+2076 Mt Nardi,TD6-TX Controller-R&amp;S THU9,http://10.12.25.68,105897,20.0.2
+2079 Mt Sugarloaf,TD1-R&amp;S-THU9-TX-Exciter_A,http://10.12.31.51,106254,23.0.0
+2079 Mt Sugarloaf,TD1-R&amp;S-THU9-TX-Exciter_B,http://10.12.31.52,106255,23.0.0
+2079 Mt Sugarloaf,TD1-TX Controller-R&amp;S THU9,http://10.12.31.53,106256,23.0.0
+2079 Mt Sugarloaf,TD6-R&amp;S-THU9-TX-Exciter_A,http://10.12.31.61,106257,23.0.0
+2079 Mt Sugarloaf,TD6-R&amp;S-THU9-TX-Exciter_B,http://10.12.31.62,106258,23.0.0
+2079 Mt Sugarloaf,TD6-TX Controller-R&amp;S THU9,http://10.12.31.63,106259,23.0.0
+2081 Mt Ulandra,TD1-TX-R&amp;S THU9,http://10.12.24.58,106278,19.0.0
+2081 Mt Ulandra,TD6-TX-R&amp;S THU9,http://10.12.24.68,106297,18.0.0
+2110 Little Forest Trig,TD1-TX Controller-R&amp;S THU9 (Firefox),http://10.12.33.51,106498,20.0.2
+2110 Little Forest Trig,TD1-TX Controller-R&amp;S THU9 (iE),http://10.12.33.51,106498,20.0.2
+2110 Little Forest Trig,TD6-TX Controller-R&amp;S THU9 (Firefox),http://10.12.33.61,106500,20.0.2
+2110 Little Forest Trig,TD6-TX Controller-R&amp;S THU9 (iE),http://10.12.33.61,106500,20.0.2
+2136 Artarmon TXA,TD6-TX-R&amp;S THV9,http://10.65.216.64,106294,22.0.0
+2225 Mt Roberts,TD6- Tx Controller-R&amp;S THU9,http://10.49.3.202,104006,16.0.0
+2225 Mt Roberts,TD6- Tx Exciter-R&amp;S THU9,http://10.49.3.203,timed out while connecting to remote host,timed out while connecting to remote host
+2066 Mt Bingar,TD1-TX-R&amp;S THU9,http://10.49.47.106,102032,16.0.0
+2066 Mt Bingar,TD6-TX-R&amp;S THU9,http://10.49.47.99,110941,21.0.0
+3013 Goschen,TD1-TX-R&amp;S THU-9,http://10.13.16.52,106115,16.0.0
+3013 Goschen,TD6-TX-R&amp;S THU-9,http://10.13.16.62,106118,16.0.0
+3017 Lookout Hill,TD1-R&amp;S THV9-TX Controller,http://10.13.22.57,111704,21.0.0
+3017 Lookout Hill,TD1-R&amp;S THV9-TX-Exciter A,http://10.13.22.58,101550,21.0.0
+3017 Lookout Hill,TD1-R&amp;S THV9-TX-Exciter B,http://10.13.22.59,101551,21.0.0
+3017 Lookout Hill,TD6-R&amp;S THV9-TX Controller,http://10.13.22.67,111705,21.0.0
+3017 Lookout Hill,TD6-R&amp;S THV9-TX-Exciter A,http://10.13.22.68,101552,21.0.0
+3017 Lookout Hill,TD6-R&amp;S THV9-TX-Exciter B,http://10.13.22.69,101553,21.0.0
+3017 Lookout Hill,TD10-TX Controller- R&amp;S THU9,http://10.13.22.80,115212,23.0.0
+3017 Lookout Hill,TD10-Exciter A-R&amp;S THU9,http://10.13.22.81,102227,23.0.0
+3017 Lookout Hill,TD10-Exciter B-R&amp;S THU9,http://10.13.22.82,102228,23.0.0
+3026 Mt Alexander,TD1-TX Controller-R&amp;S THV9,http://10.13.23.60,111610,20.0.2
+3026 Mt Alexander,TD1-TX Exciter A-R&amp;S THV9,http://10.13.23.61,101583,21.0.0
+3026 Mt Alexander,TD1-TX Exciter B-R&amp;S THV9,http://10.13.23.62,101584,21.0.0
+3026 Mt Alexander,TD6-TX Controller-R&amp;S THV9,http://10.13.23.70,111824,20.0.2
+3026 Mt Alexander,TD6-TX Exciter A-R&amp;S THV9,http://10.13.23.71,101572,21.0.0
+3026 Mt Alexander,TD6-TX Exciter B-R&amp;S THV9,http://10.13.23.72,101571,21.0.0
+3028 Mt Baranduda,TD1-R&amp;S-THV9-TX-Controller,http://10.13.24.58,111767,20.0.2
+3028 Mt Baranduda,TD1-R&amp;S-THV9-TX-Exciter_A,http://10.13.24.59,111765,20.0.0
+3028 Mt Baranduda,TD1-R&amp;S-THV9-TX-Exciter_B,http://10.13.24.60,111766,20.0.0
+3028 Mt Baranduda,TD6-R&amp;S-THV9-TX-Controller,http://10.13.24.67,111770,20.0.0
+3028 Mt Baranduda,TD6-R&amp;S-THV9-TX-Exciter_A,http://10.13.24.68,timed out while connecting to remote host,timed out while connecting to remote host
+3028 Mt Baranduda,TD6-R&amp;S-THV9-TX-Exciter_B,http://10.13.24.69,111769,20.0.0
+3030 Mt Dandenong,TD1-R&amp;S-THV9-TX-Controller,http://10.13.18.51,111308,22.0.0
+3030 Mt Dandenong,TD1-R&amp;S-THV9-TX-Exciter_A,http://10.13.18.52,timed out while connecting to remote host,timed out while connecting to remote host
+3030 Mt Dandenong,TD1-R&amp;S-THV9-TX-Exciter_B,http://10.13.18.53,timed out while connecting to remote host,timed out while connecting to remote host
+3031 Mt Dundas,TD1-R&amp;S-THV9-TX-Controller,http://10.13.17.57,111761,20.0.0
+3031 Mt Dundas,TD1-R&amp;S-THV9-TX-Exciter_A,http://10.13.17.58,timed out while connecting to remote host,timed out while connecting to remote host
+3031 Mt Dundas,TD1-R&amp;S-THV9-TX-Exciter_B,http://10.13.17.59,timed out while connecting to remote host,timed out while connecting to remote host
+3031 Mt Dundas,TD6-R&amp;S-THV9-TX-Controller,http://10.13.17.67,111764,20.0.0
+3031 Mt Dundas,TD6-R&amp;S-THV9-TX-Exciter_A,http://10.13.17.68,111762,20.0.0
+3031 Mt Dundas,TD6-R&amp;S-THV9-TX-Exciter_B,http://10.13.17.69,111763,20.0.0
+3035 Mt Major,TD1-TX Controller-R&amp;S THU9,http://10.13.21.52,111825,20.0.2
+3035 Mt Major,TD1-TX Exciter A -R&amp;S THU9,http://10.13.21.54,101573,21.0.0
+3035 Mt Major,TD1-TX Exciter B -R&amp;S THU9,http://10.13.21.57,101574,21.0.0
+3035 Mt Major,TD6-TX Controller-R&amp;S THU9,http://10.13.21.61,111826,20.0.2
+3035 Mt Major,TD6-TX Exciter A -R&amp;S THU9,http://10.13.21.62,101575,21.0.0
+3035 Mt Major,TD6-TX Exciter B -R&amp;S THU9,http://10.13.21.63,101576,21.0.0
+3038 Mt Tassie,TD1-TX-R&amp;S THU9 Exciter A,http://10.13.25.58,101554,21.0.0
+3038 Mt Tassie,TD1-TX-R&amp;S THU9 Exciter B,http://10.13.25.59,101555,21.0.0
+3038 Mt Tassie,TD1-TX-R&amp;S THU9 TX Controller,http://10.13.25.57,111706,20.0.2
+3038 Mt Tassie,TD6-TX-R&amp;S THU9 Exciter A,http://10.13.25.68,101556,21.0.0
+3038 Mt Tassie,TD6-TX-R&amp;S THU9 Exciter B,http://10.13.25.69,101557,21.0.0
+3038 Mt Tassie,TD6-TX-R&amp;S THU9 TX Controller,http://10.13.25.67,111707,20.0.2
+3057 Yatpool,TD6-TX Controller-R&amp;S THV9 ,http://10.13.50.40,104927,23.0.0
+3057 Yatpool,TD6-TX Exciter A-R&amp;S THV9,http://10.13.50.60,timed out while connecting to remote host,timed out while connecting to remote host
+3057 Yatpool,TD6-TX Exciter B-R&amp;S THV9,http://10.13.50.61,timed out while connecting to remote host,timed out while connecting to remote host
+3097 Mt Dandenong TXA,TD6-TX-R&amp;S THV9,http://10.13.26.67,103381,18.0.0
+4091 Mt Bellenden-Ker,TD6-TX-R&amp;S THV9,http://10.11.22.61,104418,20.0.2
+4091 Mt Bellenden-Ker,TD1-TX Controller- R&amp;S THV9,http://10.11.22.57,114251,23.0.0
+4091 Mt Bellenden-Ker,TD1-Exciter A-R&amp;S THV9,http://10.11.22.58,114249,23.0.0
+4091 Mt Bellenden-Ker,TD1-Exciter B-R&amp;S THV9,http://10.11.22.59,114250,23.0.0
+4091 Mt Bellenden-Ker,TD6-TX Controller- R&amp;S THV9,http://10.11.22.61,104418,20.0.2
+4091 Mt Bellenden-Ker,TD6-Exciter A-R&amp;S THV9,http://10.11.22.62,104416,20.0.2
+4091 Mt Bellenden-Ker,TD6-Exciter B-R&amp;S THV9,http://10.11.22.63,104417,20.0.2
+4093 Mt Blackwood,TD6-TX Controller- R&amp;S THU9,http://10.11.23.68,113966,23.0.0
+4093 Mt Blackwood,TD6-Exciter A-R&amp;S THU9,http://10.11.23.69,101858,23.0.0
+4093 Mt Blackwood,TD6-Exciter B-R&amp;S THU9,http://10.11.23.70,101859,23.0.0
+4094 Mt Coot-tha,TD1-TX Controller-R&amp;S THV9,http://10.11.25.53,112488,23.0.0
+4094 Mt Coot-tha,TD1-Exciter A-R&amp;S THV9,http://10.11.25.51,112486,23.0.0
+4094 Mt Coot-tha,TD1-Exciter B-R&amp;S THV9,http://10.11.25.52,112487,23.0.0
+4097 Mt Goonaneman,TD6-TX Controller-R&amp;S THV9,http://10.11.21.70,104657,16.0.0
+4097 Mt Goonaneman,TD1-TX Controller-R&amp;S THV9,http://10.11.21.47,113601,22.0.0
+4097 Mt Goonaneman,TD1-Exciter A-R&amp;S THV9,http://10.11.21.48,113599,22.0.0
+4097 Mt Goonaneman,TD1-Exciter B-R&amp;S THV9,http://10.11.21.49,113600,22.0.0
+4098 Mt Hopeful,TD1-TX-R&amp;S THU9,http://10.11.16.53,104614,18.0.0
+4098 Mt Hopeful,TD6-TX-R&amp;S THU9,http://10.11.16.61,113878,21.0.0
+4098 Mt Hopeful,TD6-Exiciter A-R&amp;S THU9,http://10.11.16.62,101843,21.0.0
+4098 Mt Hopeful,TD6-Exiciter B-R&amp;S THU9,http://10.11.16.63,101844,21.0.0
+4104 Mt Mowbullan,TD1-TX Controller R&amp;S THU9,http://10.11.19.52,111754,20.0.2
+4104 Mt Mowbullan,TD1-TX Exciter A R&amp;S THU9,http://10.11.19.54,101567,21.0.0
+4104 Mt Mowbullan,TD1-TX Exciter B R&amp;S THU9,http://10.11.19.57,101568,21.0.0
+4104 Mt Mowbullan,TD6-TX Controller R&amp;S THU9,http://10.11.19.61,111755,20.0.2
+4104 Mt Mowbullan,TD6-TX Exciter A R&amp;S THU9,http://10.11.19.62,101569,21.0.0
+4104 Mt Mowbullan,TD6-TX Exciter B R&amp;S THU9,http://10.11.19.63,101570,21.0.0
+4107 Mt Stuart,TD1-Exciter A-R&amp;S THU9,http://10.11.50.41,timed out while connecting to remote host,timed out while connecting to remote host
+4107 Mt Stuart,TD1-Exciter B-R&amp;S THU9,http://10.11.50.42,101890,23.0.0
+4107 Mt Stuart,TD1-TX Controller- R&amp;S THU9,http://10.11.50.40,114193,23.0.0
+4107 Mt Stuart,TD6-Exciter A-R&amp;S THU9,http://10.11.50.71,101891,23.0.0
+4107 Mt Stuart,TD6-Exciter B-R&amp;S THU9,http://10.11.50.72,101892,23.0.0
+4107 Mt Stuart,TD6-TX Controller- R&amp;S THU9,http://10.11.50.70,114194,23.0.0
+4108 Mt Tamborine,TD1-TX Controller-R&amp;S THU9,http://10.11.24.54,104442,20.0.2
+4108 Mt Tamborine,TD1-TX Controller-R&amp;S THU9,http://10.11.24.54,104442,20.0.2
+4108 Mt Tamborine,TD6-TX Controller-R&amp;S THU9 ,http://10.11.24.65,104004,20.0.2
+4114 Passchendaele Ridge,TD1-TX Controller- R&amp;S THU9,http://10.11.18.80,114215,23.0.0
+4114 Passchendaele Ridge,TD1-Exciter A-R&amp;S THU9,http://10.11.18.81,101895,23.0.0
+4114 Passchendaele Ridge,TD1-Exciter B-R&amp;S THU9,http://10.11.18.82,101896,23.0.0
+4114 Passchendaele Ridge,TD6-TX Controller- R&amp;S THU9,http://10.11.18.70,114216,23.0.0
+4114 Passchendaele Ridge,TD6-Exciter A-R&amp;S THU9,http://10.11.18.71,101897,23.0.0
+4114 Passchendaele Ridge,TD6-Exciter B-R&amp;S THU9,http://10.11.18.72,101898,23.0.0
+8032 Deloraine Rd,TD1-TX Controller-R&amp;S THU9 ,http://10.14.203.70,112666,21.0.0
+8032 Deloraine Rd,TD31-TX Controller-R&amp;S THU9 ,http://10.14.203.31,102776,23.0.0
+8032 Deloraine Rd,TD6-TX Controller-R&amp;S THU9 ,http://10.14.203.80,112667,21.0.0
+8032 Deloraine Rd,NTD31-TX Controller- R&amp;S THU9,http://10.14.203.50,116178,23.6.0
+8032 Deloraine Rd,NTD31-Exciter A-R&amp;S THU9,http://10.14.203.51,102504,23.6.0
+8032 Deloraine Rd,NTD31-Exciter B-R&amp;S THU9,http://10.14.203.52,102505,23.6.0
+6047 Mawson Trig,TD1-TX Controller-R&amp;S THU9,http://10.49.47.155,107559,20.0.0
+6047 Mawson Trig,TD1-Exciter A-R&amp;S THU9 ,http://10.49.47.156,107557,20.0.1
+6047 Mawson Trig,TD1-Exciter B-R&amp;S THU9 ,http://10.49.47.157,107558,20.0.1
+6047 Mawson Trig,TD6-TX Controller-R&amp;S THU9,http://10.49.47.158,107569,20.0.1
+6047 Mawson Trig,TD6-Exciter A-R&amp;S THU9 ,http://10.49.47.159,107567,20.0.1
+6047 Mawson Trig,TD6-Exciter B-R&amp;S THU9 ,http://10.49.47.160,107568,20.0.1
+6052 Moresby Range,TD1-TX Controller- R&amp;S THU9,http://10.66.144.183,114774,23.0.0
+6052 Moresby Range,TD1-Exciter A-R&amp;S THU9,http://10.66.144.184,102082,23.0.0
+6052 Moresby Range,TD1-Exciter B-R&amp;S THU9,http://10.66.144.185,102083,23.0.0
+6052 Moresby Range,TD6-TX Controller- R&amp;S THU9,http://10.66.144.187,114775,23.0.0
+6052 Moresby Range,TD6-Exciter A-R&amp;S THU9,http://10.66.144.188,102084,23.0.0
+6052 Moresby Range,TD6-Exciter B-R&amp;S THU9,http://10.66.144.189,102085,23.0.0
+6054 Mt Barker,TD6-TX Control-R&amp;S THV9,http://10.65.158.66,104343,20.0.1
+6054 Mt Barker,TD6-TX Exciter A-R&amp;S THV9,http://10.65.158.65,104341,20.0.1
+6054 Mt Barker,TD6-TX Exciter B-R&amp;S THV9,http://10.65.158.67,104342,20.0.1
+6057 Mt Latham,TD6-TX Controller- R&amp;S THU9,http://10.66.136.90,114827,23.0.0
+6057 Mt Latham,TD6-Exciter A-R&amp;S THU9,http://10.66.136.91,102091,23.0.0
+6057 Mt Latham,TD6-Exciter B-R&amp;S THU9,http://10.66.136.92,102092,23.0.0
+6057 Mt Latham,TD1-TX Controller- R&amp;S THU9,http://10.66.136.86,114826,23.0.0
+6057 Mt Latham,TD1-Exciter A-R&amp;S THU9,http://10.66.136.87,102089,23.0.0
+6057 Mt Latham,TD1-Exciter B-R&amp;S THU9,http://10.66.136.88,102090,23.0.0
+6058 Mt Lennard,TD1-TX Controller- R&amp;S THU9,http://10.15.17.40,114720,23.0.0
+6058 Mt Lennard,TD1-Exciter A-R&amp;S THU9,http://10.15.17.41,102050,23.0.0
+6058 Mt Lennard,TD1-Exciter B-R&amp;S THU9,http://10.15.17.42,102051,23.0.0
+6058 Mt Lennard,TD6-TX Controller- R&amp;S THU9,http://10.15.17.60,114721,23.0.0
+6058 Mt Lennard,TD6-Exciter A-R&amp;S THU9,http://10.15.17.61,102052,23.0.0
+6058 Mt Lennard,TD6-Exciter B-R&amp;S THU9,http://10.15.17.62,102053,23.0.0
+5013 Loxton,TD1-TX Controller- R&amp;S THU9,http://10.65.170.50,114507,23.0.0
+5013 Loxton,TD1-Exciter A-R&amp;S THU9,http://10.65.170.51,101993,23.0.0
+5013 Loxton,TD1-Exciter B-R&amp;S THU9,http://10.65.170.52,101994,23.0.0
+5013 Loxton,TD6-TX Controller- R&amp;S THU9,http://10.65.170.60,114508,23.0.0
+5013 Loxton,TD6-Exciter A-R&amp;S THU9,http://10.65.170.61,101995,23.0.0
+5013 Loxton,TD6-Exciter B-R&amp;S THU9,http://10.65.170.62,101996,23.0.0
+5015 Mt Burr,TD1-TX Controller- R&amp;S THU9,http://10.14.17.54,112026,24.0.0
+5015 Mt Burr,TD1-Exciter A-R&amp;S THU9,http://10.14.17.55,101577,24.0.0
+5015 Mt Burr,TD1-Exciter B-R&amp;S THU9,http://10.14.17.56,101578,24.0.0
+5015 Mt Burr,TD6-TX Controller- R&amp;S THU9,http://10.14.17.70,103384,24.0.0
+5015 Mt Burr,TD6-Exciter A-R&amp;S THU9,http://10.14.17.71,101579,24.0.0
+5015 Mt Burr,TD6-Exciter B-R&amp;S THU9,http://10.14.17.72,0,24.0.0
+5027 The Bluff,TD1-TX Controller-R&amp;S THU9,http://10.14.18.57,107572,19.0.0
+5027 The Bluff,TD1-TX Exciter A-R&amp;S THU9,http://10.14.18.52,NOSUCHOBJECT,NOSUCHOBJECT
+5027 The Bluff,TD1-TX Exciter B-R&amp;S THU9,http://10.14.18.54,NOSUCHOBJECT,NOSUCHOBJECT
+5027 The Bluff,TD6-TX Controller-R&amp;S THU9,http://10.14.18.67,107583,19.0.0
+5027 The Bluff,TD6-TX Exciter A-R&amp;S THU9,http://10.14.18.62,NOSUCHOBJECT,NOSUCHOBJECT
+5027 The Bluff,TD6-TX Exciter B-R&amp;S THU9,http://10.14.18.63,NOSUCHOBJECT,NOSUCHOBJECT
+7012 Mt Barrow,TD1-TX-R&amp;S THU9,http://10.13.200.50,113860,23.0.0
+7012 Mt Barrow,TD-Exciter A-R&amp;S THU9,http://10.13.200.51,101840,23.0.0
+7012 Mt Barrow,TD1-Exciter B- R&amp;S THU9,http://10.13.200.52,101839,23.0.0
+7012 Mt Barrow,TD6-TX-R&amp;S THU9,http://10.13.200.71,113861,23.0.0
+7012 Mt Barrow,TD6-Exciter A-R&amp;S THU9,http://10.13.200.72,101841,23.0.0
+7012 Mt Barrow,TD6-Exciter B-R&amp;S THU9,http://10.13.200.73,101842,23.0.0
+7016 Mt Wellington,TD1-TX-R&amp;S THU9,http://10.65.180.60,113622,22.0.0
+7016 Mt Wellington,TD6-TX-R&amp;S THU9,http://10.65.180.70,113625,22.0.0
