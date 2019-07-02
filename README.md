@@ -14,6 +14,6 @@ of each Rohde Schwarz DTV transmitter via SNMP.
 It can be used by un-linux background staff to do the batch-get task.
 
 
-Sample Outputs: THVU_SN.csv
+This repo is used for code maintainence and the customer raw data is not uploaded in here.
 
 
